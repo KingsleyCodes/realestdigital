@@ -37,13 +37,13 @@ export default function Navbar() {
         {/* Desktop Navigation Links */}
         <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-zinc-800">
           <Link href="#services" className="hover:text-brand-orange transition-colors">
-            Capabilities
+            Services
           </Link>
           <Link href="#framework" className="hover:text-brand-orange transition-colors">
-            Our Engine
+            Process
           </Link>
           <Link href="#results" className="hover:text-brand-orange transition-colors">
-            Results
+            Portfolio
           </Link>
           <Link href="#faq" className="hover:text-brand-orange transition-colors">
             FAQ
